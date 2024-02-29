@@ -1,9 +1,9 @@
 # FP-Markdown
 ---
-Nome do Estudante
-`Numero de estudante`
+Student Name
+`Student Number`
 
-## Linguagens de programação conhecidas:
+## Programming Languages known:
 
 * **C** 
 * **Javascript mas pouco**
